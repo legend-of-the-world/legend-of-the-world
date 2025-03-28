@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @legend-of-the-world
-- 👀 I’m interested in c programming language
-- 🌱 I’m currently learning c programming language
-- 💞️ I’m looking to collaborate on c 
+- 👀 I’m interested in Frontend Engineering
+- 🌱 I’m currently learning Frontend Engineering
+- 💞️ I’m looking to collaborate on HTML, CSS, JAVASCRIPT AND REACT 
 - 📫 you can reach me on adebayoaminat59@gmail.com
 
 <!---
